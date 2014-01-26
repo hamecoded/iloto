@@ -1,0 +1,15 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+.sass-cache
+*.swp
+.DS_Store
+.svn
+node_modules
+cert.pem
+key.pem
+ssl
+.idea
+doc
+css/colors.css
+css/menu-btn.css
+tmp
